@@ -1,4 +1,5 @@
-Wanna see the landing page? 👀🎉
+👀🎉 Wanna see the landing page?
+
 Click the link below! ↓
-🔗
-https://landing-page-deyes-mart.vercel.app/
+🔗https://landing-page-deyes-mart.vercel.app/
+

@@ -1,2 +1,4 @@
-To see the landing page👀🎉
-Please klik link --> https://landing-page-deyes-mart.vercel.app/
+Wanna see the landing page? 👀🎉
+Click the link below! ↓
+🔗
+https://landing-page-deyes-mart.vercel.app/
